@@ -3,7 +3,7 @@
 **Comparative Analysis of Transformer-Based LLMs and Spiking Neural Networks for Contract Clause Extraction**
 
 Author: Mateo W. Racca  
-M.Sc. in Computer Science and Artificial Intelligence, URV
+M.Sc. in Computer Security Engineering  and Artificial Intelligence, URV
 
 ## Structure
 
